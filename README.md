@@ -172,6 +172,3 @@ contract WrappedToken is ERC20 {
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
---- 
-
-Feel free to modify this README or add sections as needed! 🚀
